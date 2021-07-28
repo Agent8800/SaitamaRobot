@@ -78,6 +78,9 @@ I am an Anime themed fast and safe group management bot.
 Build by weebs for weebs, I specialize in managing anime and similar themed groups.
 You can find my list of available commands with /help.
 """
+G_START_TEXT = """
+Hello TSF BOT Is In The Chat.
+Uptime - {}!
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
