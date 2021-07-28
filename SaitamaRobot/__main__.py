@@ -225,7 +225,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="🚀 Add J Ξ R R Y to your group 🏓",
+                                text="𝙰𝚍𝚍 𝚃𝚂𝙵 𝚋𝙾𝚃 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙💥",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username
                                 ),
@@ -233,8 +233,17 @@ def start(update: Update, context: CallbackContext):
                         ],
                         
                         [
-                            InlineKeyboardButton(
-                                text="🧾 Getting started guide",
+                          InlineKeyboardButton(
+                                text="𝙰𝚍𝚍 𝚃𝚂𝙵 𝚋𝙾𝚃 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙💥",
+                                url="t.me/{}?startgroup=true".format(
+                                    context.bot.username
+                                ),
+                            )
+                        ],
+                        
+                        [
+                           InlineKeyboardButton(
+                                text="🧾 guide",
                                 url="https://t.me/",
                             )
                         ],
