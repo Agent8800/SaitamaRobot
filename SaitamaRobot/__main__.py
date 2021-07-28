@@ -84,7 +84,7 @@ Uptime - {}!
 
 HELP_STRINGS = """
 Hey
-I'm a Hero For Fun and help admins manage their groups. Have a look at the following for an idea of some of \
+ Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
