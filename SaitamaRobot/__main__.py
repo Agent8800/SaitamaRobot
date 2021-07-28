@@ -83,8 +83,8 @@ Hello TSF BOT Is In The Chat.
 Uptime - {}!
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
-I'm a Hero For Fun and help admins manage their groups with One Punch! Have a look at the following for an idea of some of \
+Hey there! My name is TSF BOT
+I'm a Hero For Fun and help admins manage their groups. Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
